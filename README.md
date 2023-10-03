@@ -1,10 +1,11 @@
-<h2 align="center">Hi 👋, I'm go75</h2>
+<h2 align="center">👋 Hello, I'm go75</h2>
 
-#### About me✨ 
-
+### ✨ About me
 * ❤️ I am interested in concurrent programming, network program, and funny tools.
+* 🔨 Creator of applications and frameworks.
+* 🎵 I like listening to music.
 
-#### Find me👀
+### 👀 Find me
 
 * Github: <https://github.com/go75>
 * Email: <2548604505@qq.com>
