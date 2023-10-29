@@ -4,11 +4,13 @@
 * ❤️ I am interested in concurrent programming, network program, and funny tools.
 * 🔨 Creator of applications and frameworks.
 * 🎵 I like listening to music.
+* ❓ I am glad to answer your question about computer science.
 
 ### 👀 Find me
 
 * Github: <https://github.com/go75>
-* Email: <2548604505@qq.com>
+* Blog: <https://blog.csdn.net/qq_67733273>
+* Email: <firelovefox@outlook.com>
 
 ![Night Cruising's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=go75&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=go75&layout=compact&hide=javascript,html,css,PowerShell)](https://github.com/anuraghazra/github-readme-stats)
